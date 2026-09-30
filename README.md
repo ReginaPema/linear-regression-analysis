@@ -114,7 +114,7 @@
 
 ```
 linear-regression-analysis/
-├── notebook/
+├── notebooks/
 │   ├── 01_logistic_regression_mexico_gdp.ipynb
 │   ├── 02_ridge_lasso_co2_vehicles.ipynb
 │   ├── 03_statistics_regression_ames_housing.ipynb
